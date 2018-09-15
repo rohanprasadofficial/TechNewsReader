@@ -1,5 +1,5 @@
 # TechNewsReader
-TechNews Reader is am simple android application that lets user to fetch the top 20 news around the globe.
+TechNews Reader is an simple android application that lets users to fetch the top 20 news around the globe.
 
 ## System Requirements:
 1.Android Studio - above 3.0
